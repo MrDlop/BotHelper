@@ -2,7 +2,7 @@
 
 A program for creating a bot project
 
-## Files
+## Folders
 
 Maket - The folder with the layouts of the main files
 
