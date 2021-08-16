@@ -24,7 +24,7 @@ void type::on_pathButton_clicked()
 
 void type::on_buttonBox_clicked()
 {
-    QString textToken = //your text token
+    QString textToken = your text token
     help_function::easy_file("type", textToken, "\\main.py", ui->pathButton->text());
 }
 ```
